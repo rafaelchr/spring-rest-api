@@ -3,11 +3,14 @@
 ## Create Database
 
 ```sql
-CREATE DATABASE bebas;
+CREATE DATABASE bebass;
 ```
 
 ## Add ```application.properties```
-- Rename application.properties.example  to application.properties, then update the values accordingly.
+Rename application.properties.example  to application.properties, then update the values accordingly.
+```
+src/main/resources/application.properties
+```
 
 ## Running the Project
 To run with Maven:
@@ -18,12 +21,12 @@ To run with Maven:
 Or run the main class from your IDE (e.g., IntelliJ or Eclipse)
 
 ## API Specification
-You can see the **API SPEC** in
+You can see the **API Specification** in
 ```
 ./docs/
 ```
 
-#Service Available
+## Service Available
 - Authentication
 - User 
 
