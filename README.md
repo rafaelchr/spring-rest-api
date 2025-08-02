@@ -7,7 +7,7 @@ CREATE DATABASE bebass;
 ```
 
 ## Add ```application.properties```
-Rename application.properties.example  to application.properties, then update the values accordingly.
+Rename **application.properties.example**  to **application.properties**, then update the values accordingly.
 ```
 src/main/resources/application.properties
 ```
