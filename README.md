@@ -3,7 +3,7 @@
 ## Create Database
 
 ```sql
-CREATE DATABASE ecommerce;
+CREATE DATABASE bebas;
 ```
 
 ## Add ```application.properties```
